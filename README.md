@@ -232,3 +232,4 @@ information, and making rapid decisions.
 
 For Airlines and Air Traffic control, they should consider recommending the execution of a go-around at any point during the approach, when there is any doubt on a safe continuation of the approach or the landing. 
 
+Link to the tableau dashboard; https://public.tableau.com/views/AviationAccidentdatavisualization/AviationDataDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
